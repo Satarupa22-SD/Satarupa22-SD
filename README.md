@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**Satarupa22-SD/Satarupa22-SD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Satarupa! 👋
 
-Here are some ideas to get you started:
+I am a 3rd Year Undergrad at Birla Institute of Technology, Mesra. I am currently pursuing B.Tech in Computer Science And Engineering.
+## 🚀 About Me
+I am a dedicated and sincere indivisual with a deep interest in machine learning and artificial intelligence. I enjoy soving real life problems through machine learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satarupa-deb-/)
+
+## 🛠 Skills
+Java, Python,SQL, Javascript, HTML, CSS, Dapp Development
+
