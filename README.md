@@ -12,3 +12,7 @@ I am a dedicated and sincere indivisual with a deep interest in machine learning
 ## 🛠 Skills
 Java, Python,SQL, Javascript, HTML, CSS, Dapp Development
 
+## 🛠 Badges
+[![@satarupa22sd's Holopin board]
+(https://holopin.me/satarupa22sd)]
+(https://holopin.io/@satarupa22sd)
