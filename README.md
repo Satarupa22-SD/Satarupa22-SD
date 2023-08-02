@@ -2,7 +2,7 @@
 <div align="center">
 <h1 align="center">👩🏻‍💻Hello World!  I'm Satarupa <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"></h1>
 <h4 align="center">🎓 A passionate Computer Science student pursuing my Bachelor of Technology 📚. Embracing the enchanting world of AI/ML, I find myself immersed in the magic of Data, Hypergraphs, Data Visualization, and web Development 🌐. Proudly belonging to the second cohort of KaggleXBIPOC Fellowship 🚀, I am constantly on a quest to learn and create.
-<br> 
+
 🌈 Beyond the realm of code, you'll find me singing my heart out, strumming melodies, and praising the captivating anime masterpieces 🎤. I have a special place in my heart for the captivating works of Mappa and Studio Ghibli 🌌.
 
 🤝 Let's join hands and embark on an exciting journey of innovation and creativity. Feel free to explore my GitHub and join me on this adventure! 🚀✨</h4>
