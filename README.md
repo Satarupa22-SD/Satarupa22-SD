@@ -32,7 +32,7 @@
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satarupa22-SD&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="Satarupa22-SD :: Top Langs" /></a>
         </p>
 <!--         <p align="center">
-          <a href="https://github.com/AbhinavJaintle/">
+          <a href="https://github.com/Satarupa22-SD/">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Satarupa22-SD&show_icons=true&theme=gruvbox&hide_border=true" />
           <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Satarupa22-SD&theme=gruvbox&hide_border=true" />
           </a>
