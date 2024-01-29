@@ -38,9 +38,9 @@
           </a>
        </p>
      <br>
-    <p align="center">
+<!--     <p align="center">
       ![](https://komarev.com/ghpvc/?username=your-github-Satarupa22-SD&color=green)
-       </p>
+       </p> -->
   </div>    
 
 
